@@ -1,0 +1,7 @@
+1. A corpus for modeling user and language effects in argumentation on online debating
+
+Link: https://docs.google.com/presentation/d/1Ezh9QsXbhzdm4zncuAf1l9DPfPlBsBACoff55ATz-6s/edit#slide=id.g789247fcb3_2_26
+
+2. A simple text based relevant location prediction method using knowledge base 
+
+Link: https://docs.google.com/presentation/d/1CyNM0qYhO7mszdxpx2Kzr-yz47eIDqxjdVdlItoY194/edit#slide=id.p
