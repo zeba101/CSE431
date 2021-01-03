@@ -1,1 +1,2 @@
-Youtube links
+A corpus for modeling user and language effects in argumentation on online debating, Youtube Link: https://youtu.be/sWytwHHstV0
+A simple text based relevant location prediction method using knowledge base , Youtube Link: https://youtu.be/sWytwHHstV0
